@@ -762,6 +762,17 @@ blockquote {
   color: #242424;
   font-weight: bold;
 }
+#header7-8 .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #9fa3a7;
+}
+#header7-8 .mbr-section-text {
+  color: #9fa3a7;
+}
+#header7-8 .mbr-section-title {
+  color: #242424;
+  font-weight: bold;
+}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
