@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
     "snow": "",
     "favicon": "@PROJECT_PATH@/assets/images/toplay-fidget-spinner-toy-stress-reducer-ceramic-bearing-perfect-for-add-adhd-anxiety-and-autism-adult-children-yellow-128x128.png",
@@ -141,6 +141,62 @@
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/7327a87fd1dd905a97a9fe87436e2bf4-original-680x453.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-text": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "color": "#242424",
+              "font-weight": "bold"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "subtitle": "Nitrious Fidget Gadgets",
+          "title": "ULTICUBES",
+          "text": "THE ULTIMATE TOOL TO HELP YOU FOCUS! SOLD BY US! Fidget, focus, and free yourself with the Fidget Dodecagon! The Fidget Dodecagon is a premium patent pending 12 sided fidget toy specifically designed to help you focus and improve cognitive performance",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header7-6\" data-toolbar=\"-mbrBtnMove\">AUD$25</a>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/928997182-o-1024x1024.jpg",
               "class": "",
               "active": true,
               "link": "",
@@ -434,7 +490,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NITRIOUS FIDGET TOYS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Toys</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header7-0\">Spinners</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header7-1\">Cubes</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#intro1-2\">Purchase</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Toys</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header7-0\">Spinners</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header7-1\">Cubes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header7-6\">Ulticubes</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#intro1-2\">Purchase</a></li>"
         }
       ]
     }
