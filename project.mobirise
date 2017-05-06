@@ -24,7 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 5,
     "versionPublish": "3.12.1",
-    "snow": ""
+    "snow": "",
+    "favicon": "@PROJECT_PATH@/assets/images/toplay-fidget-spinner-toy-stress-reducer-ceramic-bearing-perfect-for-add-adhd-anxiety-and-autism-adult-children-yellow-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
