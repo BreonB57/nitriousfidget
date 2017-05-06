@@ -1,0 +1,347 @@
+{
+  "settings": {
+    "name": "Fidget",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 5,
+    "versionPublish": "3.12.1",
+    "snow": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-text": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "color": "#242424",
+              "font-weight": "bold"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "subtitle": "Nitrious Fidget gadgets",
+          "title": "Fidget Spinners",
+          "text": "An unusually addicting, high-quality desk toy designed to help you focus. Fidget at work, in class, and at home in style.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/53cb92557b3ed350ed0c6cefb7ba90a6-570x570.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-text": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "color": "#242424",
+              "font-weight": "bold"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "subtitle": "Nitrious Fidget Gadgets",
+          "title": "Fidget Cubes",
+          "text": "An unusually addicting, high-quality desk toy designed for all ages to help you focus. Fidget at work, in class and at home in style. Fidget Cube has six sides with each side featuring something to fidget with: Flip, Glide, Click, Spin, Roll, Breathe.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7327a87fd1dd905a97a9fe87436e2bf4-original-680x453.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {},
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">download it</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "intro1",
+          "_anchor": "intro1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgColor": "#16a085",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#16a085",
+            "showText": true,
+            "showTitle": true
+          },
+          "text": "We deliver to scarborough and peppermint grove",
+          "title": "Get a Fidget toy",
+          "form": {
+            "action": "icreativecrum@gmail.com",
+            "alerts": {
+              "success": "Thanks for your purchase! You will recieve your fidget cube and you may pay at your doorstep."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Fidget Toy Desired"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Colour Desired"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Address"
+              }
+            }
+          },
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit Fidget request</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-3",
+          "_params": {
+            "rows": "2",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "How it works",
+          "subtitle": "This is how the delivery process works",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/man-using-laptop-600x399.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "person1": "Step 2",
+          "subtitle1": "",
+          "caption1": "We start processing your order",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/selfie-with-this-delivery-guy-the-bansals-600x410.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "person2": "Step 4",
+          "subtitle2": "",
+          "caption2": "You pay at your door and enjoy your fidget toy (We take credit cards!)",
+          "person3": "Step 1",
+          "subtitle3": "",
+          "caption3": "You order your fidget toy",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cardboard-boxes-conveyor-belt-distribution-warehouse-600x400.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "person4": "Step 3",
+          "subtitle4": "",
+          "caption4": "We deliver your order",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2460608a00000578-0-image-a-1-600x400.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "progress1": "91",
+            "progress2": "97",
+            "progress3": "76",
+            "progress4": "88",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgColor": "#1abc9c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#1abc9c",
+            "showTitle": true,
+            "showText": true,
+            "stripedBars": false
+          },
+          "_anchor": "progress-bar2-4",
+          "title": "Service Rating",
+          "text": "",
+          "title1": "Fidget Spinner quality",
+          "title2": "Fidget Cube Quality",
+          "title3": "Delivery Speed",
+          "title4": "Ordering"
+        }
+      ]
+    }
+  }
+}
