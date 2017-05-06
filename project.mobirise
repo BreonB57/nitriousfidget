@@ -74,12 +74,12 @@
             "showSubtitle": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "subtitle": "Nitrious Fidget gadgets",
           "title": "Fidget Spinners",
           "text": "An unusually addicting, high-quality desk toy designed to help you focus. Fidget at work, in class, and at home in style.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header7-0\" data-toolbar=\"-mbrBtnMove\">AUD$15</a>",
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/53cb92557b3ed350ed0c6cefb7ba90a6-570x570.jpg",
@@ -130,12 +130,12 @@
             "showSubtitle": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "subtitle": "Nitrious Fidget Gadgets",
           "title": "Fidget Cubes",
           "text": "An unusually addicting, high-quality desk toy designed for all ages to help you focus. Fidget at work, in class and at home in style. Fidget Cube has six sides with each side featuring something to fidget with: Flip, Glide, Click, Spin, Roll, Breathe.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header7-1\" data-toolbar=\"-mbrBtnMove\">AUD$20</a>",
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/7327a87fd1dd905a97a9fe87436e2bf4-original-680x453.jpg",
