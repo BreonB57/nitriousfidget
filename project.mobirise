@@ -96,24 +96,6 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
-          "alias": "modalblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "modal-block",
-          "_anchor": "modal-block-c",
-          "_params": {
-            "showModal": false,
-            "blockTitle": "<h1>Welcome to this website</h1>",
-            "text": "This Website was made by ICreativeCrum. Create one now at icreativecrum.com",
-            "myModalId": "myModal",
-            "bgColor": "#f1c40f",
-            "extEdit": false
-          },
-          "blockTitle": "<h1>Welcome to this website</h1>",
-          "text": "This Website was made by ICreativeCrum. Create one now at icreativecrum.com"
-        },
-        {
           "_styles": {
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
