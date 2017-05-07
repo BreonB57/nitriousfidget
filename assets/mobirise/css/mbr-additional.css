@@ -718,6 +718,18 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#header9-d .elements-content {
+  padding-bottom: 50px;
+}
+#header9-d .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-d .mbr-section-title,
+#header9-d .tab-pane {
+  color: #000;
+}
 #header7-0 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #9fa3a7;
