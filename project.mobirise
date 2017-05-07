@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "snow": "",
     "favicon": "",
@@ -82,7 +82,7 @@
             "showTitles": true
           },
           "title": "<br>What is Nitrious?",
-          "text": "Nitrious fidget gadgets is a company who will deliver fidget toys right to your doorstep within 24 hours of ordering. The unique thing about us is that you pay at the door instead of paying online. All you have to do is fill out our order form and wait and within 24 hours, you will get your fidget toy! Although we only deliver to Scarborough and Pepperming Grove at the moment, we still have top rated service.",
+          "text": "Nitrious fidget gadgets is a company who will deliver fidget toys right to your doorstep within 24 hours of ordering. The unique thing about us is that you pay at the door instead of paying online. All you have to do is fill out our order form and wait and within 24 hours, you will get your fidget toy! Although we only deliver to Scarborough and Peppermint Grove at the moment, we still have top rated service.",
           "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-d\" aria-expanded=\"true\">Quick delivery</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-d\" aria-expanded=\"false\">easy ordering</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-d\" aria-expanded=\"false\">Quick payment</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-d\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-d\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-d\">Beautiful</a></li>",
           "media11": {
             "image": {
@@ -809,6 +809,172 @@
           "text": "Quality websites for cheap prices at www.icreativecrum.com",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.icreativecrum.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            ".panel-group": {
+              "margin-bottom": "20px"
+            },
+            ".panel": {
+              "margin-bottom": "20px",
+              "background-color": "#fff",
+              "border": "1px solid transparent",
+              "border-radius": "4px",
+              "-webkit-box-shadow": "0 1px 1px rgba(0, 0, 0, .05)",
+              "box-shadow": "0px 1px 1px rgba(0,0,0,0.05)"
+            },
+            ".panel-default": {
+              "border-color": "#ddd"
+            },
+            ".panel-group .panel": {
+              "margin-bottom": "0px",
+              "border-radius": "4px"
+            },
+            ".panel-group .panel + .panel": {
+              "margin-top": "5px"
+            },
+            ".panel-heading": {
+              "padding": "10px 15px",
+              "border-bottom": "1px solid transparent",
+              "border-top-left-radius": "3px",
+              "border-top-right-radius": "3px"
+            },
+            ".panel-group .panel-heading": {
+              "border-bottom": "0"
+            },
+            ".panel-default > .panel-heading": {
+              "color": "#333",
+              "background-color": "#f5f5f5",
+              "border-color": "#ddd"
+            },
+            ".collapse": {
+              "display": "n1"
+            },
+            ".panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group": {
+              "border-top": "1px solid #ddd"
+            },
+            ".panel-default > .panel-heading + .panel-collapse > .panel-body": {
+              "border-top-color": "#ddd"
+            },
+            ".panel-title": {
+              "margin-top": "0px",
+              "margin-bottom": "0px",
+              "font-size": "16px",
+              "color": "inherit"
+            },
+            "[role=\"button\"]": {
+              "cursor": "pointer"
+            },
+            ".panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a": {
+              "color": "inherit"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "alias": "accordion",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "accordion-block",
+          "_params": {
+            "nbAccordion": 2,
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "accordions": [
+              {
+                "active": true,
+                "heading": "heading1",
+                "collapse": "collapse1",
+                "href": "#collapse1",
+                "title": "(+) Fidget Spinners",
+                "text": "Red- In Stock<br>Yellow- In stock<br>Green-<br>Blue- In stock<br>Black - In Stock"
+              },
+              {
+                "active": true,
+                "heading": "heading2",
+                "collapse": "collapse2",
+                "href": "#collapse2",
+                "title": "(+) Fidget Cubes",
+                "text": "Green/Black - In Stock<br>Yellow/White -&nbsp;<br>Red/Black - In stock"
+              },
+              {
+                "active": false,
+                "heading": "heading3",
+                "collapse": "collapse3",
+                "href": "#collapse3",
+                "title": "(+) Accordion 3",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading4",
+                "collapse": "collapse4",
+                "href": "#collapse4",
+                "title": "(+) Accordion 4",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading5",
+                "collapse": "collapse5",
+                "href": "#collapse5",
+                "title": "(+) Accordion 5",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading6",
+                "collapse": "collapse6",
+                "href": "#collapse6",
+                "title": "(+) Accordion 6",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading7",
+                "collapse": "collapse7",
+                "href": "#collapse7",
+                "title": "(+) Accordion 7",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading8",
+                "collapse": "collapse8",
+                "href": "#collapse8",
+                "title": "(+) Accordion 8",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading9",
+                "collapse": "collapse9",
+                "href": "#collapse9",
+                "title": "(+) Accordion 9",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading10",
+                "collapse": "collapse10",
+                "href": "#collapse10",
+                "title": "(+) Accordion 10",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              }
+            ],
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/accordion/deltapi.svg",
+            "bgColor": "#3366ff",
+            "bgColorRadio": true,
+            "showTitle": true
+          },
+          "_anchor": "accordion-block-e",
+          "title": "Check our stock"
         }
       ]
     }
