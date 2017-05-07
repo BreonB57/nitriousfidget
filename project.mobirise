@@ -647,14 +647,14 @@
           "_anchor": "modal-block-c",
           "_params": {
             "showModal": false,
-            "blockTitle": "<h1>Modal Block Title</h1>",
-            "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
+            "blockTitle": "<h1>Welcome to this website</h1>",
+            "text": "This Website was made by ICreativeCrum. Create one now at icreativecrum.com",
             "myModalId": "myModal",
-            "bgColor": "#fefefe",
+            "bgColor": "#f1c40f",
             "extEdit": false
           },
-          "blockTitle": "<h1>Modal Block Title</h1>",
-          "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>"
+          "blockTitle": "<h1>Welcome to this website</h1>",
+          "text": "This Website was made by ICreativeCrum. Create one now at icreativecrum.com"
         }
       ]
     }
